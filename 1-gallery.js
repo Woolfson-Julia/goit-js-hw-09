@@ -11,4 +11,4 @@ import"./assets/modulepreload-polyfill-B5Qt9EMX.js";/* empty css                
   </a>
 </li>
   `,e=i.map(p=>t(p)).join("");o.innerHTML=e;new a(".js-gallery a",{captionsData:"alt",captionDelay:250});
-//# sourceMappingURL=2-gallery.js.map
+//# sourceMappingURL=1-gallery.js.map
